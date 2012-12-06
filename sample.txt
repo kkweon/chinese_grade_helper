@@ -1,7 +1,3 @@
-Gradebook Items
-
-	Title	Due Date 	Grade*	Comments	
-	Assignments		91.85%		
 L01_作业	-	15/15		
 L02_作业	-	15/15		
 L03_作业	-	11/15		
@@ -11,7 +7,6 @@ L06_作业	-	14/15
 L07_作业	-	13.5/15		
 L08_作业	-	13.5/15		
 L09_作业	-	14.5/15		
-	Characters		99.6%		
 L01_汉字	-	10/10		
 L02_汉字	-	10/10		
 L03_汉字	-	9.8/10		
@@ -22,12 +17,10 @@ L07_汉字	-	10/10
 L08_汉字	-	10/10		
 L09_汉字	-	10/10		
 L10_汉字	-	10/10		
-	LangLab		85.25%		
 L03 pronunciation tsak	Sep 30, 2012	17.2/20		from Quiz & Survey
 L05 Pronunciation task	Oct 21, 2012	17.2/20		from Assignments
 L07 Pronunciation task	Nov 2, 2012	17.6/20		from Assignments
 L09 Pronunciation task	Nov 16, 2012	16.2/20		from Assignments
-	Listening		96.88%		
 Listening01	Sep 16, 2012	10/10		from Quiz & Survey
 Listening 02	Sep 23, 2012	8.2/10		from Quiz & Survey
 Listening03	Sep 30, 2012	9/10		from Quiz & Survey
@@ -37,7 +30,6 @@ Listening06	Oct 28, 2012	10/10		from Quiz & Survey
 Listening07	Nov 4, 2012	10/10		from Quiz & Survey
 Listening08	Nov 11, 2012	10/10		from Quiz & Survey
 Listening09	Nov 18, 2012	10/10		from Quiz & Survey
-	Performance		99.62%		
 0823Th	-	5/5		
 0824F	-	5/5		
 0827M	-	5/5		
@@ -101,7 +93,6 @@ Listening09	Nov 18, 2012	10/10		from Quiz & Survey
 1121W	-	5/5		
 1126M	-	5/5		
 1127T	-	-		
-	Quizzes		97.25%		
 L01_1	-	10/10		
 L01_2	-	10/10		
 L02_1	-	9.5/10		
@@ -122,26 +113,22 @@ L09_1	-	10/10
 L09_2	-	10/10		
 L10_1	-	10/10		
 L10_2	-	8/10		
-	Test 1 (Pinyin)		92.93%		
 PY1	Aug 28, 2012	9.3/10		from Quiz & Survey
 PY2	Aug 29, 2012	10/10		from Quiz & Survey
 PY3	Sep 4, 2012	10.95/11		from Quiz & Survey
 PY4	Sep 5, 2012	9.9/10		from Quiz & Survey
 PY5	Sep 6, 2012	9.18/10		from Quiz & Survey
 Pinyin Test	-	91/100		
-	Test 2		97%		
 Test 2 (Grammar & Writing)	-	98/100		
 Test 2 (Listening)	-	48/50		
 Test 2 (Radical)	-	30/30		
 Test 2 (Reading)	-	20/20		
-	Test 3		85.04%		
 Extra points	-	1/1		
 Test 3 (Listening)	-	32/38		
 Test 3 (Radical)	-	29/30		
 Test 3 (Reading)	-	48/48		
 Test 3 (Writing)	-	110/134		
 Test 3_Oral	-	36/50		
-	Tutorials		92.3%		
 L02	-	5/5		
 L03	-	5/5		
 L04	-	0/5		
@@ -154,7 +141,6 @@ L10	-	5/5
 Test 3	-	5/5		
 Writing Session L01	-	10/10		
 Writing Session L02	-	10/10		
-	Weekly Tasks		94%		
 Task_01	-	15/15		
 Task_02	-	15/15		
 Task_04	-	14.5/15		
