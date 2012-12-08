@@ -11,14 +11,7 @@ class App:
         def __init__(self, master):
                 self.frame = Frame(master)
                 self.frame.pack(side=BOTTOM)
-                self.vault = self.calculate()
-                self.label = ""
-                self.label_ = ''
-                self.label1 = ""
-                self.label1_ = ''
-                self.label2 = ""
-                self.label2_ = ''
-                self.letter_grade = ''
+                self.vault = self.calculate() 
                 self.option = IntVar()
                 self.option.set(0)
                 self.list_labels(self.vault, self.option)
