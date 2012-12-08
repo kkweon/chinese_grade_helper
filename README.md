@@ -1,4 +1,4 @@
-#chinese_grade_helper
+#Chinese bSpace Grade Helper
 ====================
 
 * Copy your scores on bSpace-gradebook
